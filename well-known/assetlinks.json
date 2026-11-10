@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.vercel.biosanturban.twa",
+        "sha256_cert_fingerprints": ["C0:52:24:DA:9A:59:46:A3:DA:69:2F:1F:83:CC:1D:59:D6:0B:6A:A0:5C:05:F7:C0:00:08:BE:85:29:0B:76:BC"]
+      }
+    }]
