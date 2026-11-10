@@ -1,0 +1,19 @@
+{
+  "name": "BioSanturbán Campo",
+  "short_name": "BioSanturbán",
+  "description": "Registro de especies y focos de degradación en el Páramo de Santurbán, con o sin señal.",
+  "id": "/app/",
+  "start_url": "/app/",
+  "scope": "/app/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "es-CO",
+  "background_color": "#F8FAF6",
+  "theme_color": "#23463A",
+  "categories": ["education", "productivity", "utilities"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

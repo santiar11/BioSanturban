@@ -1,0 +1,2 @@
+Coloca aquí el archivo BioSanturban.apk que genera PWABuilder (ver README.md, paso 3).
+La página de inicio detecta el archivo y activa el botón «Descargar APK».
