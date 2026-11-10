@@ -1,0 +1,34 @@
+Créditos de las fotografías · BioSanturbán
+Formato: archivo; tema; autor; licencia; fuente
+
+frailejon.jpg; Frailejón; Cizalla; CC BY 4.0; https://commons.wikimedia.org/wiki/File:Espeletia_hartwegiana.jpg
+puya.jpg; Puya; Xemenendura; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:Puya_goudotiana_2.JPG
+musgo.jpg; Musgo esfagno; Agnieszka Kwiecień, Nova; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:Sphagnum_sp._Torfowiec_2023-11-01_Borowa_03.jpg
+chite.jpg; Chite; Dick Culbert; CC BY 2.0; https://commons.wikimedia.org/wiki/File:Hypericum_laricifolium_(14402184137).jpg
+paja.jpg; Paja de páramo; FUENTE POR CONFIRMAR; ; 
+chocho.jpg; Chocho de páramo; Dick Culbert; CC BY 2.0; https://commons.wikimedia.org/wiki/File:Lupinus_pubescens_(14283787748).jpg
+genciana.jpg; Genciana; FUENTE POR CONFIRMAR; ; 
+oso.jpg; Oso andino; Anil Öztas; Licencia Arte Libre (FAL); https://commons.wikimedia.org/wiki/File:Tremarctos_ornatus,_Duisburg_(DE)_--_2023_--_0131.jpg
+puma.jpg; Puma; Charles J. Sharp; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:Puma_(Puma_concolor_concolor)_female_Leona_Amarga.jpg
+tigrillo.jpg; Tigrillo; Groumfy69; CC BY-SA 3.0; https://commons.wikimedia.org/wiki/File:Leopardus_guttulus_-_Parc_des_F%C3%A9lins.jpg
+venado.jpg; Venado cola blanca; Paul Danese; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:20241125_white_tailed_deer_cedar_hill_cemetery_PD205172.jpg
+condor.jpg; Cóndor andino; Pedro Szekely; CC BY-SA 2.0; https://commons.wikimedia.org/wiki/File:Andean_Condor_in_flight.jpg
+aguila.jpg; Águila paramuna; Charles J. Sharp; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:Black-chested_buzzard-eagle_(Geranoaetus_melanoleucus_australis)_in_flight_Chingaza.jpg
+colibri.jpg; Colibrí chillón; Charles J. Sharp; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:Sparkling_violetear_(Colibri_coruscans_coruscans)_in_flight_Cundinamarca.jpg
+copeton.jpg; Copetón; Charles J. Sharp; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:Rufous_collared_sparrow_(Zonotrichia_capensis_costaricensis)_juvenile_Cundinamarca.jpg
+mirla.jpg; Mirla patinaranja; Charles J. Sharp; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:Great_thrush_(Turdus_fuscater_quindio)_male_Caldas.jpg
+rana.jpg; Rana de lluvia; Shepack A., von May R., Ttito A., Catenazzi A.; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:Pristimantis_pluvialis_paratypes-B.jpg
+lagartija.jpg; Lagartija de páramo; Giovanni Alberto Chaves Portilla; CC BY-SA 3.0; https://commons.wikimedia.org/wiki/File:Stenocercus_lache01.jpeg
+abejorro.jpg; Abejorro; Andrew J. Crawford; CC0 (dominio público); https://commons.wikimedia.org/wiki/File:Bombus_hortulanus_13613600.jpg
+mineria.jpg; Minería; Lady Castro; CC BY-SA 2.0; https://commons.wikimedia.org/wiki/File:Retroexcavadora_-_Miner%C3%ADa_Ilegal_en_Colombia.jpg
+quema.jpg; Quema; Fernando Bizerra Jr. / EFE; © EFE, todos los derechos reservados (no es licencia libre); Agencia EFE (foto de prensa)
+ganaderia.jpg; Ganadería; Emma Salas Porto; CC BY-SA 3.0; https://commons.wikimedia.org/wiki/File:Caballos_y_vacas_en_el_P%C3%A1ramo_La_Culata.jpg
+agricultura.jpg; Agricultura; FUENTE POR CONFIRMAR; ; 
+tala.jpg; Tala; medea_material; CC BY 2.0; https://commons.wikimedia.org/wiki/File:Deforestaci%C3%B3n_alredero_del_r%C3%ADo_Medell%C3%ADn.jpg
+residuos.jpg; Residuos; FUENTE POR CONFIRMAR; ; 
+paisaje_1.jpg; Paisaje: Laguna Brava (Arboledas); Grupo Áreas Protegidas CORPONOR; CC BY-SA 3.0; https://commons.wikimedia.org/wiki/File:Laguna_Brava,_Municipio_de_Arboledas.jpg
+paisaje_2.jpg; Paisaje: Laguna Colorada (PNR Santurbán); Grupo AME CORPONOR; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:Laguna_Colorada_-_PNR_Santurb%C3%A1n_Mutiscua-Pamplona.jpg
+paisaje_3.jpg; Paisaje: Lagunas Macho y Surcura (PNR Santurbán); Grupo AME CORPONOR; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:Lagunas_Macho_y_Surcura_-_PNR_Santurb%C3%A1n_Mutiscua-Pamplona.jpg
+
+Todas las fotos con enlace provienen de Wikimedia Commons. Las licencias CC BY y CC BY-SA permiten usarlas citando al autor y la licencia; CC BY-SA exige compartir las obras derivadas con la misma licencia.
+Nota: la foto del tigrillo corresponde a Leopardus guttulus, especie cercana al tigrillo lanudo (Leopardus tigrinus).
